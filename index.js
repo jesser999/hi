@@ -1,3 +1,3 @@
 function bara(){
-    return "mrygel"
+    return "mrygel ok"
 }
