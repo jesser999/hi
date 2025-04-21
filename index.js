@@ -1,1 +1,3 @@
-
+function bara(){
+    return "mrygel"
+}
